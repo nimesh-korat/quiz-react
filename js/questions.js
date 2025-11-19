@@ -1,4 +1,4 @@
-let reactQuestions = [
+let questions = [
   {
     numb: 1,
     question: "Which command is used to create a new React project?",
